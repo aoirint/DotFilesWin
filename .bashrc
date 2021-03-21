@@ -9,3 +9,6 @@ export LANG=ja_JP.UTF-8
 eval "$(dircolors -b /etc/DIR_COLORS)"
 alias ls='ls -f --color --show-control-chars'
 
+#alias vim="$HOME/local/vim82-kaoriya-win64/vim.exe"
+
+alias python3="python"
