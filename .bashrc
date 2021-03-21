@@ -11,4 +11,7 @@ alias ls='ls -f --color --show-control-chars'
 
 #alias vim="$HOME/local/vim82-kaoriya-win64/vim.exe"
 
+export PATH="/c/Users/aoi/.pyenv/pyenv-win/bin:${PATH}"
+export PATH="/c/Users/aoi/.pyenv/pyenv-win/shims:${PATH}"
+
 alias python3="python"
